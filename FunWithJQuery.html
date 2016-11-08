@@ -1,45 +1,44 @@
-<!doctype html>
+<!DOCTYPE html>
+
 <html>
-<head>
-    <meta charset="utf-8">
-    <title>Demo</title>
-</head>
-<body>
-    <a href="http://jquery.com/">jQuery</a>
-    <script src="https://code.jquery.com/jquery-3.1.0.js"></script>
-    <script>
- 
-      $( document ).ready(function() {
+    <head>
+        <title>Javascript Events</title>
+        
+    </head>
 
-        $( "a" ).click(function( event ) {
+    <body>
+        <p id="text1">Here is my text</p>
+        <button id="myButton">(secret message)</button>
+        <button id="alertMe">Alert Me!</button>
+        <button id="changeStyle">THE BLOOD OF UR ENEMIES!</button>
+        
+        
+        <script type="text/javascript">
+        
 
-            alert( "As you can see, the link no longer took you to jquery.com" );
+            
+            document.getElementById("alertMe").onclick = function() {  
+              
+              alert("Consider Yourself Alerted!");
+              
+            };
+            
+            document.getElementById("myButton").onclick = function()  {  
+              
+              document.getElementById("text1").innerHTML = "(here is a secret message: At 1300h, a large dr. doofenshmirtz statue will fall out of the ceiling)";
+              
+            };
+            
+            document.getElementById("changeStyle").onclick = function() {  
+              
+              document.getElementById("text1").style.color = "red";
+              document.getElementById("text1").innerHTML = "They will burn";
+              
+              
+            };
 
-            event.preventDefault();
-
-        });
-
-      });
-
-    </script>t
-</body>
+        </script>
+        
+    </body>
+    
 </html>
-
-            return var b
-            }
-            function getRandomColor() {
-                var letters = '0123456789ABCDEF';
-                var color = '#';
-                for (var i = 0; i < 6; i++ ) {
-                    color += letters[Math.floor(Math.random() * 16)];
-                }
-                return color;
-            }
-
-            function makeShapeAppear() {
-            Math.random
-            return ;
-            }
-            function appearAfterDelay() {
-            return ;
-            }
