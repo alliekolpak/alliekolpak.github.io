@@ -1,0 +1,44 @@
+<!doctype html>
+
+<!-- Assessment 3 -->
+
+<html>
+    <head>
+      
+	    <title>Assessment 3</title>
+	    
+    </head>
+    
+    <body>
+           <h1 style="color:pink;" > ~AlLiE's HaNdY dAnDy SeLf-EsTeEm BuIlDer~</h1>
+           <p id="para">WHO IS THE LITERAL COOLEST?</p>
+            
+<button onclick="myFunction()">Click here</button>
+
+<p id="again"></p>
+
+<script>
+
+var correct= "me";
+var i= 1
+function myFunction() {
+    var guess = prompt("Please type in the person who is the amazing and worthy of a happy life", "password");
+    
+    if (guess == correct) {
+        document.getElementById("para").innerHTML = "YAAAAASSSS SLAAAAAYYYYYY!"
+        document.getElementById("again").innerHTML = 
+        " "
+        
+    } else {
+        document.getElementById("para").innerHTML = 
+        "yikes. do a better job @ being confident m8"
+        document.getElementById("again").innerHTML = 
+        "Click \"Click here\" to reattempt"
+        i = i+1
+        }
+}
+</script>
+      
+    </body>
+    
+</html>
