@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+
+<html>
+  
+<head>
+  
+    <title>Sweet Potato Fan Club</title>
+    <link href="https://fonts.googleapis.com/css?family=Shrikhand" rel="stylesheet">
+    <style type="text/css">
+    
+      
+       body {
+        font-family: 'Shrikhand', cursive;
+      }
+    
+    #font1 {
+        color: orange;
+        text-align: center;
+        font-size: 50px;
+      }
+    #font2 {
+        color: orange;
+        text-align: center;
+        font-size: 24px;
+    }
+    #font3 {
+        color: black;
+        text-align: justify;
+        font-size: 20px;
+    }
+     #font4 {
+        color: hotpink;
+        text-align: center;
+        font-size: 80px;
+    }
+
+    </style>
+  
+</head>
+
+  <body>
+  <h1 id="font1"> Welcome to the Sweet Potato Fan Club !!! </h1>
+  <br>
+  <h2 id="font1"> We Worship a Good Yam™</h2>
+  
+  <center>
+  <a href="https://www.thrillist.com/recipe/nation/sweet-potato-casserole-recipe" target="_blank"><img src="https://top5ofanything.com/uploads/2015/05/Yams-584x400.jpg" alt="yam yam" style="width:608px;height:456px;"></a>
+  </center>
+
+  <hr>
+  <h2 id="font2"> ~aBoUt ThE sAcReD yAm~<h2>
+  <p id="font3"> The sweet potato (Ipomoea batatas) is a dicotyledonous plant that belongs to the morning glory family Convolvulaceae. Its large, starchy, sweet-tasting, tuberous roots are a root vegetable.[1][2] In some parts of the English-speaking world, sweet potatoes are locally known by other names, including "yam" and kumara.[3] The young leaves and shoots are sometimes eaten as greens. The sweet potato is only distantly related to the potato (Solanum tuberosum) and does not belong to the nightshade family Solanaceae, but that family is part of the same taxonomic order as sweet potatoes, the Solanales.
+<br><br>
+The plant is a herbaceous perennial vine, bearing alternate heart-shaped or palmately lobed leaves and medium-sized sympetalous flowers. The edible tuberous root is long and tapered, with a smooth skin whose color ranges between yellow, orange, red, brown, purple, and beige. Its flesh ranges from beige through white, red, pink, violet, yellow, orange, and purple. Sweet potato varieties with white or pale yellow flesh are less sweet and moist than those with red, pink or orange flesh.[4]
+<br><br>
+Ipomoea batatas is native to the tropical regions in the Americas.[5][6] Of the approximately 50 genera and more than 1,000 species of Convolvulaceae, I. batatas is the only crop plant of major importance—some others are used locally (e.g. I. aquatica "kangkong"), but many are poisonous. The genus Ipomoea that contains the sweet potato also includes several garden flowers called morning glories, though that term is not usually extended to Ipomoea batatas. Some cultivars of Ipomoea batatas are grown as ornamental plants under the name tuberous morning glory, used in a horticultural context.
+<br> <br> 
+Although the soft, orange sweet potato is often called a "yam" in parts of North America, the sweet potato is botanically very distinct from a genuine yam (Dioscorea), which is native to Africa and Asia and belongs to the monocot family Dioscoreaceae. To add to the confusion, a different crop plant, the oca (Oxalis tuberosa, a species of wood sorrel), is called a "yam" in many parts of Polynesia, including New Zealand. The United States Department of Agriculture requires that the label "yam" always be accompanied by "sweet potato" in U.S. retail sales of sweet potato.[7]
+<br> <br> 
+Although the sweet potato is not closely related botanically to the common potato, they have a shared etymology. The first Europeans to taste sweet potatoes were members of Christopher Columbus's expedition in 1492. Later explorers found many varieties under an assortment of local names, but the name which stayed was the indigenous Taino name of batata. The Spanish combined this with the Quechua word for potato, papa, to create the word patata for the common potato. The first record of the name "sweet potato" is found in the Oxford English Dictionary of 1775.
+<br> <br> 
+In Argentina, Venezuela, Puerto Rico and the Dominican Republic the sweet potato is called batata. In Mexico, Peru, Chile, Central America, and the Philippines, the sweet potato is known as camote (alternatively spelled kamote in the Philippines), derived from the Nahuatl word camotli.[8]
+<br> <br> 
+In Peru, the Quechua name for a type of sweet potato is kumar, strikingly similar to the Polynesian name kumara and its regional Oceanic cognates (kumala, umala,  'uala, etc.), which has led some scholars to suspect an instance of pre-Columbian trans-oceanic contact.
+<br> <br> 
+In New Zealand, the most common variety is the Red (purple) cultivar called kumara, a name derived from the Māori name kūmara, but orange (Beauregard) and gold varieties are also available.[9] Kumara is particularly popular as a roasted food, or in contemporary cuisine as kumara chips, often served with sour cream and sweet chili sauce. Occasionally, shops in Australia will label the purple variety as "purple sweet potato" to denote the difference to the other varieties. About 95% of Australia's production is of the orange variety named Beauregard, originally from North America, known simply as "sweet potato". A reddish-purple variety, Northern Star, is 4% of production and is sold as "kumara".-wikipedia </p>
+<hr>
+<p id="font4"> As I always say, sweet potatoes are good for the soul, and good for your hole!</p>
+
+  
+  
+  
+    <script type="text/javascript">
+    
+    </script>
+  </body>
+  
+</html>
